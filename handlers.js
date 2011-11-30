@@ -49,6 +49,16 @@ function show(request, response){
   });
 }
 
+function get(request, response){
+
+}
+
+function set(request, response){
+
+}
+
 exports.start = start;
 exports.upload = upload;
 exports.show = show;
+exports.get = get;
+exports.set = set;
